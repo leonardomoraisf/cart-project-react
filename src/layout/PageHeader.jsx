@@ -4,7 +4,7 @@ const PageHeader = () => {
   return (
     <header>
       <span>
-        Carrinho de compras do <b>fernandev</b>
+        Carrinho de compras do <b>Leonardo</b>
       </span>
     </header>
   );
